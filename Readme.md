@@ -15,7 +15,6 @@ An E-commerce platform built using HTML, CSS, PHP, and MySQL. This web applicati
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -48,7 +47,7 @@ Before running this project, make sure you have the following software installed
 - [XAMPP](https://www.apachefriends.org/index.html) (to run Apache and MySQL server)
 - PHP 7.x or higher
 
-## Installation
+### Installation
 
 1. **Clone the repository:**
 
