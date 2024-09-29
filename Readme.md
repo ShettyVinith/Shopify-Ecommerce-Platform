@@ -4,8 +4,6 @@
 
 An E-commerce platform built using HTML, CSS, PHP, and MySQL. This web application allows users to browse products, add items to the shopping cart, buy products, and manage their cart. The admin has full control over the inventory, including adding, editing, and deleting items.
 
----
-
 ## Table of Contents
 
 - [Features](#features)
@@ -18,8 +16,6 @@ An E-commerce platform built using HTML, CSS, PHP, and MySQL. This web applicati
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
----
 
 ## Features
 
@@ -37,15 +33,11 @@ An E-commerce platform built using HTML, CSS, PHP, and MySQL. This web applicati
 - Delete items from the inventory.
 - Manage all products and stock directly from the admin panel.
 
----
-
 ## Technologies Used
 
 - **Frontend**: HTML, CSS
 - **Backend**: PHP
 - **Database**: MySQL
-
----
 
 ## Setup Instructions
 
@@ -55,9 +47,6 @@ Before running this project, make sure you have the following software installed
 
 - [XAMPP](https://www.apachefriends.org/index.html) (to run Apache and MySQL server)
 - PHP 7.x or higher
-- Git
-
----
 
 ## Installation
 
@@ -85,16 +74,10 @@ Before running this project, make sure you have the following software installed
 5. **Access the Website:**
    - Visit `http://localhost/Shopify-Ecommerce-Platform` in your browser.
 
----
-
 ## Usage
 
 Once the setup is complete, users can browse the products and perform various actions such as adding items to the cart, managing their cart, and making purchases. The admin can manage inventory and product details via the admin panel.
 
----
-
 ## Contributing
 
 Contributions are always welcome! Feel free to fork the repository and submit pull requests. If you'd like to contribute in other ways, don't hesitate to open an issue or submit your ideas.
-
----
